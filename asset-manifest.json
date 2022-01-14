@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rebel-blog/static/css/main.d3637cd3.css",
+    "main.js": "/rebel-blog/static/js/main.1f36e4ee.js",
+    "index.html": "/rebel-blog/index.html",
+    "main.d3637cd3.css.map": "/rebel-blog/static/css/main.d3637cd3.css.map",
+    "main.1f36e4ee.js.map": "/rebel-blog/static/js/main.1f36e4ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3637cd3.css",
+    "static/js/main.1f36e4ee.js"
+  ]
+}
